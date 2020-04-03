@@ -1,6 +1,6 @@
 ---
 name: "\U0001F680 Feature Request"
-about: I'd like to suggest a new feature. \U0001F642
+about: "I'd like to suggest a new feature. \U0001F642"
 labels: enhancement
 ---
 ### Problem Statement

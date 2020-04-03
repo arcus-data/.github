@@ -1,6 +1,6 @@
 ---
 name: "\U0001F41B Bug Report"
-about: Something isn't working correctly! \U0001F914
+about: "Something isn't working correctly! \U0001F914"
 labels: bug
 ---
 ### Describe the bug
